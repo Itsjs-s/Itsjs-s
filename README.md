@@ -2,7 +2,7 @@
 - 👀 I’m interested in security programs and scripts
 - 🌱 I’m currently learning cyber security 
 - 💞️ I’m looking to work in a reputed organization and help them grow
-- 📫 you can reach me vua messaging on github
+- 📫 you can reach me via messaging on github
 
 <!---
 Itsjs-s/Itsjs-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
